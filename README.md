@@ -1,5 +1,6 @@
 # TidemanMethod-Java
-Tideman Method or Ranked Pairs Voting System Implementation in Java 
+Tideman Method or Ranked Pairs Voting System Implementation in Java  
+More Info : https://en.wikipedia.org/wiki/Ranked_pairs
 # Introduction
 1.`VotingSystem.java` contains classes to implement Tideman Method.  
 2.Examples can be found in `Main.java` which has tests that can be considered as Examples.
